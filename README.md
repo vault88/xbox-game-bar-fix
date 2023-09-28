@@ -2,6 +2,12 @@
 
 > if you are experiencing problems with Xbox Game Bar on Windows 10/11, you are not alone.
 
+To download files use:
+
+```sh
+git clone https://github.com/vault88/xbox-game-bar-fix
+```
+
 ## Troubleshooting
 
 ### Buttons not active
