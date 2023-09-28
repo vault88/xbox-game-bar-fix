@@ -29,5 +29,6 @@ winget install 9NZKPSTSNW4P --source msstore --accept-source-agreements --accept
 
 I hope it helps you.
 
-##### P.S.
+## P.S.
+
 Feel free to comment and add Issues, I would like to add some more tips and tricks to help everyone conquer that buggy app.
